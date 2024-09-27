@@ -1,0 +1,15 @@
+/* Step 1 */
+.AutoLayout{
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+
+position: relative;
+width: 375px;
+height: 191px;
+left: 80px;
+top: 268px;
+
+background: linear-gradient(0deg, rgba(26, 26, 26, 0.5), rgba(26, 26, 26, 0.5)), url(.jpg);
+}
